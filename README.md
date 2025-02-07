@@ -1,4 +1,4 @@
-MAD SEAMUS
+FREE CANADA
 ============
 
 This pack is an altered  and refined collection of the FOSSCAD CAD files towards my personal tastes and my own personal addictions and edits. the original repo includes all previous Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo), 4.4 (Raiden), 4.5 (Otacon),  4.6 (Tachikoma) and 4.7 (Aramaki). This Megapack hence replaces all previous Megapacks. 
